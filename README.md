@@ -6,7 +6,8 @@ This project runs an AI agent using the openai-agents library and Gemini 2.5 Fla
 pip install uv
 
 ⚙️ Setup Instructions                                                                         
-2. Add Dependencies
+
+  2. Add Dependencies
 uv add openai-agents python-decouple chainlit
 
 3. Configure Environment Variables
